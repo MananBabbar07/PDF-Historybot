@@ -1,0 +1,15 @@
+env/
+venv/
+.conda/
+*.conda/
+.env
+__pycache__/
+*.pyc
+.streamlit/
+*.pdf
+.chroma/
+*.db
+temp.pdf
+.DS_Store
+Thumbs.db
+.env
