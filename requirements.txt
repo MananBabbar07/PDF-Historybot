@@ -10,5 +10,6 @@ langchain-chroma==0.1.0
 
 chromadb==0.4.24
 sentence-transformers==2.2.2
+huggingface-hub==0.19.4
 pypdf==4.2.0
 faiss-cpu==1.7.4
